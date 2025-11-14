@@ -28,3 +28,10 @@ body {
     color: white;
     font-family: sans-serif;
 }
+#cle {
+    left: 350px;
+    top: 300px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
